@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Smart Healthcare System (AI + ML Project)
 
 ## 📌 Overview
@@ -281,3 +282,6 @@ This system is for **educational purposes only** and does not replace profession
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+=======
+# smart_healthcare_system-
+>>>>>>> 4a2f0bd4f7ebeebdd5b675ffb967dda554108007
